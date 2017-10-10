@@ -1,3 +1,4 @@
+# 2048 = 2^11
 # 8192
 # 2048 - I LOVE THIS GAME
 # Goodluck
